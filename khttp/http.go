@@ -7,7 +7,7 @@ import (
 	"encoding/base64"
 	"errors"
 	"fmt"
-	"github.com/jmckaskill/gokerb"
+	"github.com/otakuyu/gokerb"
 	"io"
 	"net"
 	"net/http"
